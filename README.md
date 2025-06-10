@@ -1,42 +1,48 @@
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+# I ATE - an AI assistant
+### This project was made by Team I8 (_get it?_) for the 25' June Conference Intermediate Hackathon.
+> I ATE is an AI assisant that (insert description here)
 
-# I ATE: by Group I8
-(get it?)
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Setup](#setup)
+* [Room for Improvement](#room-for-improvement)
+* [Acknowledgements](#acknowledgements)
 
-I ATE is a [insert description here]
+
+## General Information
+(placeholder)
+
+
+## Technologies Used
+- Tech 1 - version 1.0
+- Tech 2 - version 2.0
+- Tech 3 - version 3.0
+
+
+## Features
+List the ready features here:
+- Awesome feature 1
+- Awesome feature 2
+- Awesome feature 3
+
 
 ## Screenshots
+![Example screenshot](./img/screenshot.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-## Run Locally
+## Setup
 
-Clone the project
 
-```bash
-  git clone https://link-to-project
-```
 
-Go to the project directory
+## Room for Improvement
 
-```bash
-  cd my-project
-```
 
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
 
 ## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+Give credit here.
+- This project was inspired by...
+- This project was based on [this tutorial](https://www.example.com).
+- Many thanks to...
