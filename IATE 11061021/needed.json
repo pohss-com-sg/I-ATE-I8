@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Apple",
+    "calories": 52,
+    "cannot_be_eaten_by": ["Fructose Intolerance"],
+    "sugar": 10.4
+  },
+  {
+    "name": "Banana",
+    "calories": 89,
+    "cannot_be_eaten_by": ["Diabetes"],
+    "sugar": 12.2
+  },
+  {
+    "name": "Chicken Breast",
+    "calories": 165,
+    "cannot_be_eaten_by": ["Vegetarian", "Vegan"],
+    "sugar": 0
+  },
+  {
+    "name": "Spinach",
+    "calories": 23,
+    "cannot_be_eaten_by": ["Kidney Stones"],
+    "sugar": 0.4
+  },
+  {
+    "name": "Milk",
+    "calories": 42,
+    "cannot_be_eaten_by": ["Lactose Intolerance"],
+    "sugar": 5
+  }
+]
