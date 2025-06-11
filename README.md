@@ -1,8 +1,8 @@
 ![Logo](i-ate-logo.png)
 
-# I ATE - an AI assistant
+# I ATE - an AI-powered food assistance
 ### This project was made by Team I8 (_get it?_) for the 25' June Conference Intermediate Hackathon.
-> I ATE is an AI assisant that (insert description here)
+> I ATE is an AI-power mobile application that supports individuals with dietary restrictions in accessing suitable foods while maintaining a nutritionally balanced diet.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -19,16 +19,21 @@
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- Python - 3.13.2 64-bit
+- Gemini - Gemini 2.0 Flash
+- Vosk - vosk-model-small-en-us-0.15
+- Javascript -
+- HTML -
+- CSS -
+- ChatGPT - 3.5
+- 
 
 
 ## Features
 List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Meal Planner
+- Food Database of Suitable Options
+- AI Food Advisory Chatbot
 
 
 ## Screenshots
@@ -45,7 +50,6 @@ List the ready features here:
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- This project was based on...
+- This project was inspired by our conference group name 'i8' (a homophone of 'I ATE')
 - Many thanks to...
   - [https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project] for the README.md reference
