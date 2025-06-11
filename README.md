@@ -1,3 +1,5 @@
+![Logo](i-ate-logo.png)
+
 # I ATE - an AI assistant
 ### This project was made by Team I8 (_get it?_) for the 25' June Conference Intermediate Hackathon.
 > I ATE is an AI assisant that (insert description here)
