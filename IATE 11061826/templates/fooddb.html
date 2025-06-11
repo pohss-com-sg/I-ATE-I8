@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-wdith">
+        <meta http-equiv="X-UA-Compatible" content="ie-edge">
+        <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+
+        <title> I ATE </title>
+        <link href="{{url_for('static', filename='css/fooddb.css')}}" rel="stylesheet">
+        <script src="/static/fooddb.js"></script>
+
+    </head>
+    <body>
+        <nav>
+            <div class="header">
+                <div class="logo">
+                    <img src="static/Diagrams/i-ate-logo.png" class="logoimg">
+                    <a class="logoname" href="/" >Food Friend</a>
+                </div>
+                <div class="navbar">
+                    <ul>
+                        <li><a href="/mealplan">Meal Planning</a></li>
+                        <li><a href="/chatbot">ChatBot</a></li>
+                        <li><a href="/translate">Translate</a></li>
+                        <li><a href="/db">Database</a></li>
+                    </ul>
+                </div>
+            </div>
+            
+        </nav>
+        <div class="dbheader">
+
+            <div>
+                <div class="dbsearch">
+
+                    <div class="dbname">
+                        <h1>Food Database</h1>
+                    </div>
+
+                    <div class="searchbar">
+                         <input id="search" type="text" placeholder="Search foods here! &#128270;">
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="dbdb" data-container>
+
+            </div>
+
+        </div>
+
+        <template data-template>
+            <button onclick = dropdown(id) class="dbbutton">
+                <div>
+                    <div name-data></div>
+                    <i class="fa fa-caret-up" style="display: none;"></i>
+                    <i class="fa fa-caret-down"></i>
+                </div>
+
+                
+            </button>
+            <div class="dropdown-container">
+                <div nutrient-data>
+                    
+                    <!-- add a table -->
+                    <!-- idk how lmao -->
+                
+                    <th>
+
+                    </th>
+                </div>
+            </div>
+        </template>
+
+    </body>
+</html>
+
+{{NAME}}
