@@ -5,10 +5,9 @@
 > I ATE is an AI-power mobile application that supports individuals with dietary restrictions in accessing suitable foods while maintaining a nutritionally balanced diet.
 
 ## Table of Contents
-* [General Info](#general-information)
+* [General Information](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-* [Screenshots](#screenshots)
 * [Development Process](#development-process)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
@@ -63,6 +62,7 @@ FoodFriend is an AI-powered mobile application that features a personalised meal
 
 ## Room for Improvement
 - Personalisation page
+- Nutrition tracker
 - Multilingual UI
 - Voice-powered AI (speech-to-text with vosk)
 - Image recognition of food items (ChatGPT)
