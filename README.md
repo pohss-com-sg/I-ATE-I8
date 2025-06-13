@@ -47,18 +47,22 @@ FoodFriend is an AI-powered mobile application that features a personalised meal
 - Discussion of features to be implemented
 - Explored libraries (e.g. pocketsphinx, vosk, google generative ai)
 - Began on presentation slides and script for BuildingBloCS Hackathon
+
 11th June 2025
 - Continuation of creating presentation slides and script
 - Coded Gemini in Python and engineered input prompts and system instructions to customise AI for food advice
 - Coded Gemini for weekly meal planner
 - Continuation of website building with HTML and CSS
+
 12th June 2025
 - Javascript for template of large food database
+
 13th June 2025
 - Presentation rehearsal
 - Integrated Gemini into website (Both chatbot and meal planner)
 - a lot of confusion
 - UI/UX design of mobile app
+
 14th June 2025
   - Presentation to judges
 
