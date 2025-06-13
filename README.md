@@ -96,6 +96,7 @@ or through
 - Multilingual UI
 - Voice-powered AI (speech-to-text with vosk)
 - Image recognition of food items (ChatGPT)
+- UI/UX Improvement
 
 
 ## Acknowledgements
