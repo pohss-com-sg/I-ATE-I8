@@ -13,6 +13,9 @@
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 
+##Google Slides
+
+* [Slides]https://docs.google.com/presentation/d/14jXrzb1aPX2L9YmG7r4wmZvYFKqmFRqS2z5jpoAswdo/edit?usp=sharing
 
 ## General Information
 I ATE is a project designed to support individuals with dietary restrictions arising from various causes such as chronic illnesses, physical conditions, allergies, and more. With approximately 1 in 3 Singaporeans requiring dietary or lifestyle modifications, I ATE aims to simplify and support this different way of life.
