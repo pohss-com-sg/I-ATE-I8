@@ -26,7 +26,6 @@ FoodFriend is an AI-powered mobile application that features a personalised meal
 - HTML
 - CSS
 - ChatGPT - 3.5 & 4.0
-- 
 
 
 ## Features
