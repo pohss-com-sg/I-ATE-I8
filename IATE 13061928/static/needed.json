@@ -1,0 +1,434 @@
+[
+  {
+    "name": "Apple",
+    "body": "100g, 52 calories, 0.2g fat, 14g carbohydrates, 0.3g protein"
+  },
+  {
+    "name": "Banana",
+    "body": "100g, 89 calories, 0.3g fat, 23g carbohydrates, 1.1g protein"
+  },
+  {
+    "name": "Orange",
+    "body": "100g, 47 calories, 0.1g fat, 12g carbohydrates, 0.9g protein"
+  },
+  {
+    "name": "Grapes",
+    "body": "100g, 69 calories, 0.2g fat, 18g carbohydrates, 0.7g protein"
+  },
+  {
+    "name": "Strawberry",
+    "body": "100g, 32 calories, 0.3g fat, 8g carbohydrates, 0.7g protein"
+  },
+  {
+    "name": "Blueberry",
+    "body": "100g, 57 calories, 0.3g fat, 14g carbohydrates, 0.7g protein"
+  },
+  {
+    "name": "Watermelon",
+    "body": "100g, 30 calories, 0.2g fat, 8g carbohydrates, 0.6g protein"
+  },
+  {
+    "name": "Pineapple",
+    "body": "100g, 50 calories, 0.1g fat, 13g carbohydrates, 0.5g protein"
+  },
+  {
+    "name": "Mango",
+    "body": "100g, 60 calories, 0.4g fat, 15g carbohydrates, 0.8g protein"
+  },
+  {
+    "name": "Kiwi",
+    "body": "100g, 61 calories, 0.5g fat, 15g carbohydrates, 1.1g protein"
+  },
+  {
+    "name": "Peach",
+    "body": "100g, 39 calories, 0.3g fat, 10g carbohydrates, 0.9g protein"
+  },
+  {
+    "name": "Plum",
+    "body": "100g, 46 calories, 0.3g fat, 11g carbohydrates, 0.7g protein"
+  },
+  {
+    "name": "Cherry",
+    "body": "100g, 63 calories, 0.2g fat, 16g carbohydrates, 1.1g protein"
+  },
+  {
+    "name": "Raspberry",
+    "body": "100g, 52 calories, 0.7g fat, 12g carbohydrates, 1.2g protein"
+  },
+  {
+    "name": "Blackberry",
+    "body": "100g, 43 calories, 0.5g fat, 10g carbohydrates, 1.4g protein"
+  },
+  {
+    "name": "Lemon",
+    "body": "100g, 29 calories, 0.3g fat, 9g carbohydrates, 1.1g protein"
+  },
+  {
+    "name": "Lime",
+    "body": "100g, 30 calories, 0.2g fat, 11g carbohydrates, 0.7g protein"
+  },
+  {
+    "name": "Avocado",
+    "body": "100g, 160 calories, 15g fat, 9g carbohydrates, 2g protein"
+  },
+  {
+    "name": "Tomato",
+    "body": "100g, 18 calories, 0.2g fat, 4g carbohydrates, 0.9g protein"
+  },
+  {
+    "name": "Cucumber",
+    "body": "100g, 15 calories, 0.1g fat, 4g carbohydrates, 0.7g protein"
+  },
+  {
+    "name": "Carrot",
+    "body": "100g, 41 calories, 0.2g fat, 10g carbohydrates, 0.9g protein"
+  },
+  {
+    "name": "Broccoli",
+    "body": "100g, 34 calories, 0.4g fat, 7g carbohydrates, 2.8g protein"
+  },
+  {
+    "name": "Spinach",
+    "body": "100g, 23 calories, 0.4g fat, 4g carbohydrates, 2.9g protein"
+  },
+  {
+    "name": "Potato",
+    "body": "100g, 77 calories, 0.1g fat, 17g carbohydrates, 2g protein"
+  },
+  {
+    "name": "Sweet Potato",
+    "body": "100g, 86 calories, 0.1g fat, 20g carbohydrates, 1.6g protein"
+  },
+  {
+    "name": "Onion",
+    "body": "100g, 40 calories, 0.1g fat, 9g carbohydrates, 1.1g protein"
+  },
+  {
+    "name": "Garlic",
+    "body": "100g, 149 calories, 0.5g fat, 33g carbohydrates, 6.4g protein"
+  },
+  {
+    "name": "Bell Pepper (Red)",
+    "body": "100g, 31 calories, 0.3g fat, 6g carbohydrates, 1g protein"
+  },
+  {
+    "name": "Mushrooms",
+    "body": "100g, 22 calories, 0.3g fat, 3g carbohydrates, 3.1g protein"
+  },
+  {
+    "name": "Zucchini",
+    "body": "100g, 17 calories, 0.3g fat, 3g carbohydrates, 1.2g protein"
+  },
+  {
+    "name": "Eggplant",
+    "body": "100g, 25 calories, 0.2g fat, 6g carbohydrates, 1g protein"
+  },
+  {
+    "name": "Lettuce (Romaine)",
+    "body": "100g, 17 calories, 0.3g fat, 3g carbohydrates, 1.2g protein"
+  },
+  {
+    "name": "Cabbage",
+    "body": "100g, 25 calories, 0.1g fat, 6g carbohydrates, 1.3g protein"
+  },
+  {
+    "name": "Cauliflower",
+    "body": "100g, 25 calories, 0.3g fat, 5g carbohydrates, 1.9g protein"
+  },
+  {
+    "name": "Green Beans",
+    "body": "100g, 31 calories, 0.2g fat, 7g carbohydrates, 1.8g protein"
+  },
+  {
+    "name": "Corn",
+    "body": "100g, 86 calories, 1.2g fat, 19g carbohydrates, 3.2g protein"
+  },
+  {
+    "name": "Peas",
+    "body": "100g, 81 calories, 0.4g fat, 14g carbohydrates, 5.4g protein"
+  },
+  {
+    "name": "Rice (White)",
+    "body": "100g cooked, 130 calories, 0.3g fat, 28g carbohydrates, 2.7g protein"
+  },
+  {
+    "name": "Rice (Brown)",
+    "body": "100g cooked, 111 calories, 0.9g fat, 23g carbohydrates, 2.6g protein"
+  },
+  {
+    "name": "Bread (Whole Wheat)",
+    "body": "1 slice, 82 calories, 1g fat, 14g carbohydrates, 4g protein"
+  },
+  {
+    "name": "Oats",
+    "body": "100g dry, 389 calories, 7g fat, 66g carbohydrates, 17g protein"
+  },
+  {
+    "name": "Pasta (Whole Wheat)",
+    "body": "100g cooked, 124 calories, 0.6g fat, 25g carbohydrates, 5g protein"
+  },
+  {
+    "name": "Chicken Breast",
+    "body": "100g cooked, 165 calories, 3.6g fat, 0g carbohydrates, 31g protein"
+  },
+  {
+    "name": "Beef (Lean Ground)",
+    "body": "100g cooked, 250 calories, 15g fat, 0g carbohydrates, 26g protein"
+  },
+  {
+    "name": "Salmon",
+    "body": "100g cooked, 208 calories, 13g fat, 0g carbohydrates, 20g protein"
+  },
+  {
+    "name": "Tuna (Canned in Water)",
+    "body": "100g drained, 116 calories, 0.8g fat, 0g carbohydrates, 25.5g protein"
+  },
+  {
+    "name": "Eggs",
+    "body": "1 large, 78 calories, 5g fat, 0.6g carbohydrates, 6g protein"
+  },
+  {
+    "name": "Milk (Cow's, 2%)",
+    "body": "100ml, 50 calories, 2g fat, 5g carbohydrates, 3.3g protein"
+  },
+  {
+    "name": "Yogurt (Plain, Low Fat)",
+    "body": "100g, 63 calories, 1.5g fat, 7g carbohydrates, 5.7g protein"
+  },
+  {
+    "name": "Cheese (Cheddar)",
+    "body": "100g, 403 calories, 33g fat, 1.3g carbohydrates, 25g protein"
+  },
+  {
+    "name": "Butter",
+    "body": "100g, 717 calories, 81g fat, 0.1g carbohydrates, 0.9g protein"
+  },
+  {
+    "name": "Olive Oil",
+    "body": "1 tbsp, 120 calories, 14g fat, 0g carbohydrates, 0g protein"
+  },
+  {
+    "name": "Almonds",
+    "body": "100g, 579 calories, 49g fat, 22g carbohydrates, 21g protein"
+  },
+  {
+    "name": "Walnuts",
+    "body": "100g, 654 calories, 65g fat, 14g carbohydrates, 15g protein"
+  },
+  {
+    "name": "Peanut Butter",
+    "body": "100g, 588 calories, 50g fat, 20g carbohydrates, 25g protein"
+  },
+  {
+    "name": "Lentils",
+    "body": "100g cooked, 116 calories, 0.4g fat, 20g carbohydrates, 9g protein"
+  },
+  {
+    "name": "Chickpeas",
+    "body": "100g cooked, 164 calories, 2.6g fat, 27g carbohydrates, 8.9g protein"
+  },
+  {
+    "name": "Black Beans",
+    "body": "100g cooked, 132 calories, 0.5g fat, 24g carbohydrates, 8.9g protein"
+  },
+  {
+    "name": "Quinoa",
+    "body": "100g cooked, 120 calories, 1.9g fat, 21g carbohydrates, 4.4g protein"
+  },
+  {
+    "name": "Tofu (Firm)",
+    "body": "100g, 76 calories, 4.8g fat, 1.9g carbohydrates, 8g protein"
+  },
+  {
+    "name": "Shrimp",
+    "body": "100g cooked, 85 calories, 0.9g fat, 0.3g carbohydrates, 20g protein"
+  },
+  {
+    "name": "Pork Loin",
+    "body": "100g cooked, 143 calories, 4.5g fat, 0g carbohydrates, 26g protein"
+  },
+  {
+    "name": "Lamb Chop",
+    "body": "100g cooked, 290 calories, 22g fat, 0g carbohydrates, 21g protein"
+  },
+  {
+    "name": "Cod",
+    "body": "100g cooked, 105 calories, 0.8g fat, 0g carbohydrates, 23g protein"
+  },
+  {
+    "name": "Sardines (Canned in Oil)",
+    "body": "100g drained, 208 calories, 12g fat, 0g carbohydrates, 25g protein"
+  },
+  {
+    "name": "Peanuts",
+    "body": "100g, 567 calories, 49g fat, 16g carbohydrates, 26g protein"
+  },
+  {
+    "name": "Cashews",
+    "body": "100g, 553 calories, 44g fat, 30g carbohydrates, 18g protein"
+  },
+  {
+    "name": "Sunflower Seeds",
+    "body": "100g, 584 calories, 51g fat, 20g carbohydrates, 21g protein"
+  },
+  {
+    "name": "Pumpkin Seeds",
+    "body": "100g, 559 calories, 49g fat, 11g carbohydrates, 24g protein"
+  },
+  {
+    "name": "Chia Seeds",
+    "body": "100g, 486 calories, 31g fat, 42g carbohydrates, 17g protein"
+  },
+  {
+    "name": "Flaxseeds",
+    "body": "100g, 534 calories, 42g fat, 29g carbohydrates, 18g protein"
+  },
+  {
+    "name": "Hummus",
+    "body": "100g, 166 calories, 10g fat, 15g carbohydrates, 7.9g protein"
+  },
+  {
+    "name": "Guacamole",
+    "body": "100g, 167 calories, 15g fat, 9g carbohydrates, 2g protein"
+  },
+  {
+    "name": "Honey",
+    "body": "100g, 304 calories, 0g fat, 82g carbohydrates, 0.3g protein"
+  },
+  {
+    "name": "Maple Syrup",
+    "body": "100g, 260 calories, 0.1g fat, 67g carbohydrates, 0g protein"
+  },
+  {
+    "name": "White Sugar",
+    "body": "100g, 387 calories, 0g fat, 100g carbohydrates, 0g protein"
+  },
+  {
+    "name": "Brown Sugar",
+    "body": "100g, 380 calories, 0g fat, 98g carbohydrates, 0g protein"
+  },
+  {
+    "name": "Salt",
+    "body": "100g, 0 calories, 0g fat, 0g carbohydrates, 0g protein"
+  },
+  {
+    "name": "Black Pepper",
+    "body": "100g, 251 calories, 3.3g fat, 64g carbohydrates, 10g protein"
+  },
+  {
+    "name": "Cinnamon",
+    "body": "100g, 247 calories, 1.2g fat, 81g carbohydrates, 4g protein"
+  },
+  {
+    "name": "Ginger",
+    "body": "100g, 80 calories, 0.7g fat, 18g carbohydrates, 1.8g protein"
+  },
+  {
+    "name": "Turmeric",
+    "body": "100g, 354 calories, 9.9g fat, 65g carbohydrates, 8g protein"
+  },
+  {
+    "name": "Soy Sauce",
+    "body": "100ml, 53 calories, 0.1g fat, 5.5g carbohydrates, 8.1g protein"
+  },
+  {
+    "name": "Vinegar (Apple Cider)",
+    "body": "100ml, 20 calories, 0g fat, 0.9g carbohydrates, 0g protein"
+  },
+  {
+    "name": "Mustard",
+    "body": "100g, 66 calories, 4g fat, 7g carbohydrates, 4g protein"
+  },
+  {
+    "name": "Ketchup",
+    "body": "100g, 100 calories, 0.3g fat, 25g carbohydrates, 1.3g protein"
+  },
+  {
+    "name": "Mayonnaise",
+    "body": "100g, 680 calories, 75g fat, 3.5g carbohydrates, 1.2g protein"
+  },
+  {
+    "name": "Sour Cream",
+    "body": "100g, 198 calories, 19g fat, 4.3g carbohydrates, 3.1g protein"
+  },
+  {
+    "name": "Cottage Cheese (Low Fat)",
+    "body": "100g, 72 calories, 1g fat, 3.4g carbohydrates, 12g protein"
+  },
+  {
+    "name": "Ricotta Cheese (Part Skim)",
+    "body": "100g, 138 calories, 7.8g fat, 3g carbohydrates, 11g protein"
+  },
+  {
+    "name": "Feta Cheese",
+    "body": "100g, 265 calories, 21g fat, 4.1g carbohydrates, 14g protein"
+  },
+  {
+    "name": "Bacon",
+    "body": "100g cooked, 541 calories, 42g fat, 0g carbohydrates, 37g protein"
+  },
+  {
+    "name": "Sausage (Pork)",
+    "body": "100g cooked, 321 calories, 28g fat, 0g carbohydrates, 16g protein"
+  },
+  {
+    "name": "Ham (Deli)",
+    "body": "100g, 145 calories, 6g fat, 1.4g carbohydrates, 21g protein"
+  },
+  {
+    "name": "Turkey Breast (Deli)",
+    "body": "100g, 104 calories, 1.4g fat, 0.7g carbohydrates, 22g protein"
+  },
+  {
+    "name": "Prosciutto",
+    "body": "100g, 274 calories, 18g fat, 0g carbohydrates, 28g protein"
+  },
+  {
+    "name": "Salami",
+    "body": "100g, 439 calories, 37g fat, 1.4g carbohydrates, 22g protein"
+  },
+  {
+    "name": "Hot Dog",
+    "body": "100g, 290 calories, 26g fat, 2.5g carbohydrates, 10g protein"
+  },
+  {
+    "name": "Hamburger Bun",
+    "body": "1 bun, 120 calories, 2g fat, 22g carbohydrates, 4g protein"
+  },
+  {
+    "name": "French Fries",
+    "body": "100g, 312 calories, 15g fat, 41g carbohydrates, 3.4g protein"
+  },
+  {
+    "name": "Pizza (Cheese)",
+    "body": "1 slice, 285 calories, 10g fat, 36g carbohydrates, 12g protein"
+  },
+  {
+    "name": "Ice Cream (Vanilla)",
+    "body": "100g, 207 calories, 11g fat, 24g carbohydrates, 3.5g protein"
+  },
+  {
+    "name": "Chocolate Bar (Milk)",
+    "body": "100g, 535 calories, 30g fat, 59g carbohydrates, 8g protein"
+  },
+  {
+    "name": "Doughnut (Glazed)",
+    "body": "1 medium, 269 calories, 14g fat, 33g carbohydrates, 3.4g protein"
+  },
+  {
+    "name": "Cookie (Chocolate Chip)",
+    "body": "1 medium, 130 calories, 6g fat, 17g carbohydrates, 1.5g protein"
+  },
+  {
+    "name": "Soda (Cola)",
+    "body": "100ml, 42 calories, 0g fat, 11g carbohydrates, 0g protein"
+  },
+  {
+    "name": "Coffee (Black)",
+    "body": "100ml, 1 calorie, 0g fat, 0g carbohydrates, 0.1g protein"
+  },
+  {
+    "name": "Tea (Black)",
+    "body": "100ml, 1 calorie, 0g fat, 0g carbohydrates, 0.1g protein"
+  }
+]
