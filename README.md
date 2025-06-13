@@ -72,6 +72,7 @@ FoodFriend is an AI-powered mobile application that features a personalised meal
 - This project was inspired by our conference group name 'i8' (a homophone of 'I ATE')
 - Many thanks to...
   - [https://buildingblocs.sg/] for very helpful coding and AI workshops
+  - [https://gemini.google.com] for the API
   - [https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project] for the README.md reference
   - [https://chatgpt.com/?model=gpt-4o] for large food database
   - [https://www.ncbi.nlm.nih.gov/] for research of prevalence of dietary restrictions
