@@ -1,4 +1,4 @@
-I ATE Logo.png
+![Logo](https://github.com/pohss-com-sg/I-ATE-I8/blob/main/I%20ATE%20Logo.png)
 
 # I ATE - an AI-powered food assistance
 ### This project was made by Team I8 (_get it?_) for the 25' June Conference Intermediate Hackathon.
