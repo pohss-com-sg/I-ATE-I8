@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="ie-edge">
+        <title> Food Friend Bot </title>
+        <link rel="icon" type="image/x-icon" href="static/Diagrams/i-ate-logo.png">
+        <link href="{{url_for('static', filename='css/chatbot.css')}}" rel="stylesheet">
+
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+        #chat-display {
+            flex: 1;
+            width: 100%;
+            padding: 20px;
+            overflow-y: auto;
+        }
+        .message { margin: 10px 0; }
+        .user { text-align: right; font-weight: 600; }
+        .bot { text-align: left; color: #444; }
+    </style>
+
+    </head>
+    <body>
+        <nav>
+            <div class="header">
+                <div class="logo">
+                    <img src="static/Diagrams/i-ate-logo.png" class="logoimg">
+                    <a class="logoname" href="/">Food Friend</a>
+                </div>
+                <div class="navbar">
+                    <ul>
+                        <li><a href="/mealplan">Meal Planner</a></li>
+                        <li><a href="/chatbot">Chatbot</a></li>
+                        <li><a href="db">Database</a></li>
+                    </ul>
+                </div>
+            </div>
+            
+        </nav>
+
+        <div class="chatbotdiv">
+            <div class="chatbox" id="chat-display">
+                <!-- Message appear here-->
+            </div>
+
+            <form class="input-container" onsubmit="handleSubmit(event)">
+                <!-- return the robot answers and save-->
+                        <input  id="texti" class="chatbottext-input" type="text" placeholder="Chat here!" required />
+                        <button class="chatbottext-submit" id="submitBtn">Submit</button>
+            </form>
+        </div>
+
+        <script defer>
+            function scrolldown (timedelay) {
+                window.scrollBy({top: document.body.offsetHeight, behavior: "smooth"});
+            }
+            scrolldown()
+            //it might be different to the planning as it was done by seperate people
+
+            document.addEventListener("DOMContentLoaded", function () {
+                const input = document.getElementById("texti");
+                const submitBtn = document.getElementById("submitBtn");
+                const chatDisplay = document.getElementById("chat-display");
+                
+                submitBtn.addEventListener("click", async function () { //wait for message to be sent
+                const message = input.value.trim();
+                if (!message) return;
+                
+                const userDiv = document.createElement("div"); //Same with bot one just append to new div to store info
+                userDiv.classname = "message user";
+                userDiv.textContent = "You: " + message;
+                chatDisplay.appendChild(userDiv);
+                input.value = "";
+                
+                const loaderDiv = document.createElement("div");
+                loaderDiv.className = "message bot loader";
+                loaderDiv.style.background = "transparent";
+
+                for (let i = 0; i < 3; i++) {
+                    const dot = document.createElement("div");
+                    dot.className = "loader__element";
+                    loaderDiv.appendChild(dot);
+                }
+
+                chatDisplay.appendChild(loaderDiv);
+                chatDisplay.scrollTop = chatDisplay.scrollHeight;
+
+                try {
+                    const response = await fetch("/ask", {
+                        method: "POST",
+                        headers: {
+                            "Content-Type": "application/json"
+                        },
+                        body: JSON.stringify({
+                            message: message,
+                            role: "chat"
+                        })
+                    });
+
+                    const data = await response.json();
+
+                    chatDisplay.removeChild(loaderDiv);
+
+                    const botDiv = document.createElement("div"); //create new div for every mesasage
+                    botDiv.className = "message bot";
+                    botDiv.textContent = "Bot: " + data.response;
+                    chatDisplay.appendChild(botDiv); //put into another div same as the fooddb
+                    chatDisplay.scrollTop = chatDisplay.scrollHeight; //display the newer message --> for convience tbh
+
+                } catch (error) {
+                    chatDisplay.removeChild(loaderDiv);
+                    const errDiv = document.createElement("div"); //help to catch error instead of jinja2 error
+                    errDiv.className = "message bot";
+                    errDiv.textContent = "Bot: Sorry, there was an error.";
+                    chatDisplay.appendChild(errDiv);
+                }
+
+                });
+        });
+        </script>
+    </body>
+</html>

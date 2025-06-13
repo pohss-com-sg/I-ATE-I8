@@ -1,0 +1,514 @@
+[
+  {
+    "name": "Apple",
+    "body": "Per 100g: 52 calories, 0.2g fat, 14g carbohydrates, 2.4g fiber, 10g sugar, 0.3g protein"
+  },
+  {
+    "name": "Banana",
+    "body": "Per 100g: 89 calories, 0.3g fat, 23g carbohydrates, 2.6g fiber, 12g sugar, 1.1g protein"
+  },
+  {
+    "name": "Orange",
+    "body": "Per 100g: 47 calories, 0.1g fat, 12g carbohydrates, 2.4g fiber, 9g sugar, 0.9g protein"
+  },
+  {
+    "name": "Grapes",
+    "body": "Per 100g: 69 calories, 0.2g fat, 18g carbohydrates, 0.9g fiber, 16g sugar, 0.7g protein"
+  },
+  {
+    "name": "Strawberry",
+    "body": "Per 100g: 32 calories, 0.3g fat, 8g carbohydrates, 2g fiber, 4.9g sugar, 0.7g protein"
+  },
+  {
+    "name": "Blueberry",
+    "body": "Per 100g: 57 calories, 0.3g fat, 14g carbohydrates, 2.4g fiber, 10g sugar, 0.7g protein"
+  },
+  {
+    "name": "Watermelon",
+    "body": "Per 100g: 30 calories, 0.2g fat, 8g carbohydrates, 0.4g fiber, 6g sugar, 0.6g protein"
+  },
+  {
+    "name": "Pineapple",
+    "body": "Per 100g: 50 calories, 0.1g fat, 13g carbohydrates, 1.4g fiber, 9.9g sugar, 0.5g protein"
+  },
+  {
+    "name": "Mango",
+    "body": "Per 100g: 60 calories, 0.4g fat, 15g carbohydrates, 1.6g fiber, 14g sugar, 0.8g protein"
+  },
+  {
+    "name": "Kiwi",
+    "body": "Per 100g: 61 calories, 0.5g fat, 15g carbohydrates, 3g fiber, 9g sugar, 1.1g protein"
+  },
+  {
+    "name": "Peach",
+    "body": "Per 100g: 39 calories, 0.3g fat, 10g carbohydrates, 1.5g fiber, 8g sugar, 0.9g protein"
+  },
+  {
+    "name": "Plum",
+    "body": "Per 100g: 46 calories, 0.3g fat, 11g carbohydrates, 1.4g fiber, 10g sugar, 0.7g protein"
+  },
+  {
+    "name": "Cherry",
+    "body": "Per 100g: 63 calories, 0.2g fat, 16g carbohydrates, 2.1g fiber, 13g sugar, 1.1g protein"
+  },
+  {
+    "name": "Raspberry",
+    "body": "Per 100g: 52 calories, 0.7g fat, 12g carbohydrates, 6.5g fiber, 4.4g sugar, 1.2g protein"
+  },
+  {
+    "name": "Blackberry",
+    "body": "Per 100g: 43 calories, 0.5g fat, 10g carbohydrates, 5.3g fiber, 4.9g sugar, 1.4g protein"
+  },
+  {
+    "name": "Lemon",
+    "body": "Per 100g: 29 calories, 0.3g fat, 9g carbohydrates, 2.8g fiber, 2.5g sugar, 1.1g protein"
+  },
+  {
+    "name": "Lime",
+    "body": "Per 100g: 30 calories, 0.2g fat, 11g carbohydrates, 2.8g fiber, 1.7g sugar, 0.7g protein"
+  },
+  {
+    "name": "Avocado",
+    "body": "Per 100g: 160 calories, 15g fat, 9g carbohydrates, 6.7g fiber, 0.7g sugar, 2g protein"
+  },
+  {
+    "name": "Tomato",
+    "body": "Per 100g: 18 calories, 0.2g fat, 4g carbohydrates, 1.2g fiber, 2.6g sugar, 0.9g protein"
+  },
+  {
+    "name": "Cucumber",
+    "body": "Per 100g: 15 calories, 0.1g fat, 4g carbohydrates, 1.5g fiber, 1.7g sugar, 0.7g protein"
+  },
+  {
+    "name": "Carrot",
+    "body": "Per 100g: 41 calories, 0.2g fat, 10g carbohydrates, 2.8g fiber, 4.7g sugar, 0.9g protein"
+  },
+  {
+    "name": "Broccoli",
+    "body": "Per 100g: 34 calories, 0.4g fat, 7g carbohydrates, 2.6g fiber, 1.7g sugar, 2.8g protein"
+  },
+  {
+    "name": "Spinach",
+    "body": "Per 100g: 23 calories, 0.4g fat, 4g carbohydrates, 2.2g fiber, 0.4g sugar, 2.9g protein"
+  },
+  {
+    "name": "Potato",
+    "body": "Per 100g: 77 calories, 0.1g fat, 17g carbohydrates, 2.2g fiber, 0.8g sugar, 2g protein"
+  },
+  {
+    "name": "Sweet Potato",
+    "body": "Per 100g: 86 calories, 0.1g fat, 20g carbohydrates, 3g fiber, 4.2g sugar, 1.6g protein"
+  },
+  {
+    "name": "Onion",
+    "body": "Per 100g: 40 calories, 0.1g fat, 9g carbohydrates, 1.7g fiber, 4.2g sugar, 1.1g protein"
+  },
+  {
+    "name": "Garlic",
+    "body": "Per 100g: 149 calories, 0.5g fat, 33g carbohydrates, 2.1g fiber, 1g sugar, 6.4g protein"
+  },
+  {
+    "name": "Bell Pepper (Red)",
+    "body": "Per 100g: 31 calories, 0.3g fat, 6g carbohydrates, 2.1g fiber, 4.2g sugar, 1g protein"
+  },
+  {
+    "name": "Mushrooms",
+    "body": "Per 100g: 22 calories, 0.3g fat, 3g carbohydrates, 1g fiber, 1.9g sugar, 3.1g protein"
+  },
+  {
+    "name": "Zucchini",
+    "body": "Per 100g: 17 calories, 0.3g fat, 3g carbohydrates, 1.1g fiber, 2.5g sugar, 1.2g protein"
+  },
+  {
+    "name": "Eggplant",
+    "body": "Per 100g: 25 calories, 0.2g fat, 6g carbohydrates, 2.5g fiber, 3.2g sugar, 1g protein"
+  },
+  {
+    "name": "Lettuce (Romaine)",
+    "body": "Per 100g: 17 calories, 0.3g fat, 3g carbohydrates, 1.2g fiber, 1.2g sugar, 1.2g protein"
+  },
+  {
+    "name": "Cabbage",
+    "body": "Per 100g: 25 calories, 0.1g fat, 6g carbohydrates, 2.5g fiber, 3.2g sugar, 1.3g protein"
+  },
+  {
+    "name": "Cauliflower",
+    "body": "Per 100g: 25 calories, 0.3g fat, 5g carbohydrates, 2g fiber, 1.9g sugar, 1.9g protein"
+  },
+  {
+    "name": "Green Beans",
+    "body": "Per 100g: 31 calories, 0.2g fat, 7g carbohydrates, 2.7g fiber, 3.3g sugar, 1.8g protein"
+  },
+  {
+    "name": "Corn (Sweet, Cooked)",
+    "body": "Per 100g: 96 calories, 1.5g fat, 21g carbohydrates, 2.4g fiber, 4.5g sugar, 3.4g protein"
+  },
+  {
+    "name": "Peas (Green, Cooked)",
+    "body": "Per 100g: 81 calories, 0.4g fat, 14g carbohydrates, 5.1g fiber, 5.7g sugar, 5.4g protein"
+  },
+  {
+    "name": "Rice (White, Cooked)",
+    "body": "Per 100g: 130 calories, 0.3g fat, 28g carbohydrates, 0.4g fiber, 0.1g sugar, 2.7g protein"
+  },
+  {
+    "name": "Rice (Brown, Cooked)",
+    "body": "Per 100g: 111 calories, 0.9g fat, 23g carbohydrates, 1.8g fiber, 0.2g sugar, 2.6g protein"
+  },
+  {
+    "name": "Bread (Whole Wheat)",
+    "body": "1 slice (approx 28g): 82 calories, 1g fat, 14g carbohydrates, 1.9g fiber, 1.4g sugar, 4g protein"
+  },
+  {
+    "name": "Oats (Dry)",
+    "body": "Per 100g: 389 calories, 7g fat, 66g carbohydrates, 10.6g fiber, 1.1g sugar, 17g protein"
+  },
+  {
+    "name": "Pasta (Whole Wheat, Cooked)",
+    "body": "Per 100g: 124 calories, 0.6g fat, 25g carbohydrates, 3.2g fiber, 0.5g sugar, 5g protein"
+  },
+  {
+    "name": "Chicken Breast (Cooked, Skinless)",
+    "body": "Per 100g, 165 calories, 3.6g fat, 0g carbohydrates, 0g fiber, 0g sugar, 31g protein"
+  },
+  {
+    "name": "Beef (Lean Ground, Cooked)",
+    "body": "Per 100g: 250 calories, 15g fat, 0g carbohydrates, 0g fiber, 0g sugar, 26g protein"
+  },
+  {
+    "name": "Salmon (Cooked)",
+    "body": "Per 100g: 208 calories, 13g fat, 0g carbohydrates, 0g fiber, 0g sugar, 20g protein"
+  },
+  {
+    "name": "Tuna (Canned in Water, Drained)",
+    "body": "Per 100g: 116 calories, 0.8g fat, 0g carbohydrates, 0g fiber, 0g sugar, 25.5g protein"
+  },
+  {
+    "name": "Eggs (Large, Whole)",
+    "body": "Per 1 large (approx 50g): 78 calories, 5g fat, 0.6g carbohydrates, 0g fiber, 0.6g sugar, 6g protein"
+  },
+  {
+    "name": "Milk (Cow's, 2%)",
+    "body": "Per 100ml: 50 calories, 2g fat, 5g carbohydrates, 0g fiber, 5g sugar, 3.3g protein"
+  },
+  {
+    "name": "Yogurt (Plain, Low Fat)",
+    "body": "Per 100g: 63 calories, 1.5g fat, 7g carbohydrates, 0g fiber, 7g sugar, 5.7g protein"
+  },
+  {
+    "name": "Cheese (Cheddar)",
+    "body": "Per 100g: 403 calories, 33g fat, 1.3g carbohydrates, 0g fiber, 0.5g sugar, 25g protein"
+  },
+  {
+    "name": "Butter",
+    "body": "Per 100g: 717 calories, 81g fat, 0.1g carbohydrates, 0g fiber, 0.1g sugar, 0.9g protein"
+  },
+  {
+    "name": "Olive Oil",
+    "body": "Per 1 tbsp (13.5g): 120 calories, 14g fat, 0g carbohydrates, 0g fiber, 0g sugar, 0g protein"
+  },
+  {
+    "name": "Almonds",
+    "body": "Per 100g: 579 calories, 49g fat, 22g carbohydrates, 12.2g fiber, 4.4g sugar, 21g protein"
+  },
+  {
+    "name": "Walnuts",
+    "body": "Per 100g: 654 calories, 65g fat, 14g carbohydrates, 6.7g fiber, 2.6g sugar, 15g protein"
+  },
+  {
+    "name": "Peanut Butter (Smooth)",
+    "body": "Per 100g: 588 calories, 50g fat, 20g carbohydrates, 6g fiber, 9g sugar, 25g protein"
+  },
+  {
+    "name": "Lentils (Cooked)",
+    "body": "Per 100g: 116 calories, 0.4g fat, 20g carbohydrates, 7.9g fiber, 0.3g sugar, 9g protein"
+  },
+  {
+    "name": "Chickpeas (Cooked)",
+    "body": "Per 100g: 164 calories, 2.6g fat, 27g carbohydrates, 7.6g fiber, 4.8g sugar, 8.9g protein"
+  },
+  {
+    "name": "Black Beans (Cooked)",
+    "body": "Per 100g: 132 calories, 0.5g fat, 24g carbohydrates, 8.7g fiber, 0.3g sugar, 8.9g protein"
+  },
+  {
+    "name": "Quinoa (Cooked)",
+    "body": "Per 100g: 120 calories, 1.9g fat, 21g carbohydrates, 2.8g fiber, 0.9g sugar, 4.4g protein"
+  },
+  {
+    "name": "Tofu (Firm)",
+    "body": "Per 100g: 76 calories, 4.8g fat, 1.9g carbohydrates, 2.3g fiber, 0.3g sugar, 8g protein"
+  },
+  {
+    "name": "Shrimp (Cooked)",
+    "body": "Per 100g: 85 calories, 0.9g fat, 0.3g carbohydrates, 0g fiber, 0.3g sugar, 20g protein"
+  },
+  {
+    "name": "Pork Loin (Cooked)",
+    "body": "Per 100g: 143 calories, 4.5g fat, 0g carbohydrates, 0g fiber, 0g sugar, 26g protein"
+  },
+  {
+    "name": "Lamb Chop (Cooked)",
+    "body": "Per 100g: 290 calories, 22g fat, 0g carbohydrates, 0g fiber, 0g sugar, 21g protein"
+  },
+  {
+    "name": "Cod (Cooked)",
+    "body": "Per 100g: 105 calories, 0.8g fat, 0g carbohydrates, 0g fiber, 0g sugar, 23g protein"
+  },
+  {
+    "name": "Sardines (Canned in Oil, Drained)",
+    "body": "Per 100g: 208 calories, 12g fat, 0g carbohydrates, 0g fiber, 0g sugar, 25g protein"
+  },
+  {
+    "name": "Peanuts (Roasted, Salted)",
+    "body": "Per 100g: 567 calories, 49g fat, 16g carbohydrates, 8.5g fiber, 4.7g sugar, 26g protein"
+  },
+  {
+    "name": "Cashews (Roasted, Salted)",
+    "body": "Per 100g: 553 calories, 44g fat, 30g carbohydrates, 3.3g fiber, 5.9g sugar, 18g protein"
+  },
+  {
+    "name": "Sunflower Seeds (Shelled, Dry Roasted)",
+    "body": "Per 100g: 584 calories, 51g fat, 20g carbohydrates, 8.6g fiber, 2.6g sugar, 21g protein"
+  },
+  {
+    "name": "Pumpkin Seeds (Shelled, Dry Roasted)",
+    "body": "Per 100g: 559 calories, 49g fat, 11g carbohydrates, 6g fiber, 1.3g sugar, 24g protein"
+  },
+  {
+    "name": "Chia Seeds",
+    "body": "Per 100g: 486 calories, 31g fat, 42g carbohydrates, 34g fiber, 0g sugar, 17g protein"
+  },
+  {
+    "name": "Flaxseeds",
+    "body": "Per 100g: 534 calories, 42g fat, 29g carbohydrates, 27.3g fiber, 1.6g sugar, 18g protein"
+  },
+  {
+    "name": "Hummus",
+    "body": "Per 100g: 166 calories, 10g fat, 15g carbohydrates, 6g fiber, 0g sugar, 7.9g protein"
+  },
+  {
+    "name": "Guacamole",
+    "body": "Per 100g: 167 calories, 15g fat, 9g carbohydrates, 6.7g fiber, 0.7g sugar, 2g protein"
+  },
+  {
+    "name": "Honey",
+    "body": "Per 100g: 304 calories, 0g fat, 82g carbohydrates, 0g fiber, 82g sugar, 0.3g protein"
+  },
+  {
+    "name": "Maple Syrup",
+    "body": "Per 100g: 260 calories, 0.1g fat, 67g carbohydrates, 0g fiber, 67g sugar, 0g protein"
+  },
+  {
+    "name": "White Sugar",
+    "body": "Per 100g: 387 calories, 0g fat, 100g carbohydrates, 0g fiber, 100g sugar, 0g protein"
+  },
+  {
+    "name": "Brown Sugar",
+    "body": "Per 100g: 380 calories, 0g fat, 98g carbohydrates, 0g fiber, 97g sugar, 0g protein"
+  },
+  {
+    "name": "Salt",
+    "body": "Per 100g: 0 calories, 0g fat, 0g carbohydrates, 0g fiber, 0g sugar, 0g protein"
+  },
+  {
+    "name": "Black Pepper",
+    "body": "Per 100g: 251 calories, 3.3g fat, 64g carbohydrates, 25.3g fiber, 0.6g sugar, 10g protein"
+  },
+  {
+    "name": "Cinnamon",
+    "body": "Per 100g: 247 calories, 1.2g fat, 81g carbohydrates, 53.1g fiber, 2.2g sugar, 4g protein"
+  },
+  {
+    "name": "Ginger",
+    "body": "Per 100g: 80 calories, 0.7g fat, 18g carbohydrates, 2g fiber, 1.7g sugar, 1.8g protein"
+  },
+  {
+    "name": "Turmeric",
+    "body": "Per 100g: 354 calories, 9.9g fat, 65g carbohydrates, 21g fiber, 3.2g sugar, 8g protein"
+  },
+  {
+    "name": "Soy Sauce (Low Sodium)",
+    "body": "Per 100ml: 53 calories, 0.1g fat, 5.5g carbohydrates, 0g fiber, 2.5g sugar, 8.1g protein"
+  },
+  {
+    "name": "Vinegar (Apple Cider)",
+    "body": "Per 100ml: 20 calories, 0g fat, 0.9g carbohydrates, 0g fiber, 0.4g sugar, 0g protein"
+  },
+  {
+    "name": "Mustard (Yellow)",
+    "body": "Per 100g: 66 calories, 4g fat, 7g carbohydrates, 3.3g fiber, 2.7g sugar, 4g protein"
+  },
+  {
+    "name": "Ketchup",
+    "body": "Per 100g: 100 calories, 0.3g fat, 25g carbohydrates, 0.9g fiber, 22g sugar, 1.3g protein"
+  },
+  {
+    "name": "Mayonnaise (Regular)",
+    "body": "Per 100g: 680 calories, 75g fat, 3.5g carbohydrates, 0g fiber, 3.2g sugar, 1.2g protein"
+  },
+  {
+    "name": "Sour Cream (Regular)",
+    "body": "Per 100g: 198 calories, 19g fat, 4.3g carbohydrates, 0g fiber, 3.2g sugar, 3.1g protein"
+  },
+  {
+    "name": "Cottage Cheese (Low Fat)",
+    "body": "Per 100g: 72 calories, 1g fat, 3.4g carbohydrates, 0g fiber, 2.7g sugar, 12g protein"
+  },
+  {
+    "name": "Ricotta Cheese (Part Skim)",
+    "body": "Per 100g: 138 calories, 7.8g fat, 3g carbohydrates, 0g fiber, 3g sugar, 11g protein"
+  },
+  {
+    "name": "Feta Cheese",
+    "body": "Per 100g: 265 calories, 21g fat, 4.1g carbohydrates, 0g fiber, 4.1g sugar, 14g protein"
+  },
+  {
+    "name": "Bacon (Cooked)",
+    "body": "Per 100g: 541 calories, 42g fat, 0g carbohydrates, 0g fiber, 0g sugar, 37g protein"
+  },
+  {
+    "name": "Sausage (Pork, Cooked)",
+    "body": "Per 100g: 321 calories, 28g fat, 0g carbohydrates, 0g fiber, 0g sugar, 16g protein"
+  },
+  {
+    "name": "Ham (Deli, Sliced)",
+    "body": "Per 100g: 145 calories, 6g fat, 1.4g carbohydrates, 0g fiber, 1.4g sugar, 21g protein"
+  },
+  {
+    "name": "Turkey Breast (Deli, Sliced)",
+    "body": "Per 100g: 104 calories, 1.4g fat, 0.7g carbohydrates, 0g fiber, 0.7g sugar, 22g protein"
+  },
+  {
+    "name": "Prosciutto",
+    "body": "Per 100g: 274 calories, 18g fat, 0g carbohydrates, 0g fiber, 0g sugar, 28g protein"
+  },
+  {
+    "name": "Salami",
+    "body": "Per 100g: 439 calories, 37g fat, 1.4g carbohydrates, 0g fiber, 0.8g sugar, 22g protein"
+  },
+  {
+    "name": "Hot Dog (Beef)",
+    "body": "Per 100g: 290 calories, 26g fat, 2.5g carbohydrates, 0g fiber, 1.5g sugar, 10g protein"
+  },
+  {
+    "name": "Hamburger Bun",
+    "body": "Per 1 bun (approx 42g): 120 calories, 2g fat, 22g carbohydrates, 1g fiber, 3g sugar, 4g protein"
+  },
+  {
+    "name": "French Fries (Fast Food)",
+    "body": "Per 100g: 312 calories, 15g fat, 41g carbohydrates, 3.4g fiber, 0.3g sugar, 3.4g protein"
+  },
+  {
+    "name": "Pizza (Cheese, Regular Crust)",
+    "body": "Per 1 slice (approx Per 100g): 285 calories, 10g fat, 36g carbohydrates, 2.5g fiber, 4g sugar, 12g protein"
+  },
+  {
+    "name": "Ice Cream (Vanilla, Regular)",
+    "body": "Per 100g: 207 calories, 11g fat, 24g carbohydrates, 0.7g fiber, 21g sugar, 3.5g protein"
+  },
+  {
+    "name": "Chocolate Bar (Milk)",
+    "body": "Per 100g: 535 calories, 30g fat, 59g carbohydrates, 3.6g fiber, 55g sugar, 8g protein"
+  },
+  {
+    "name": "Doughnut (Glazed)",
+    "body": "Per 1 medium (approx 50g): 269 calories, 14g fat, 33g carbohydrates, 1.2g fiber, 19g sugar, 3.4g protein"
+  },
+  {
+    "name": "Cookie (Chocolate Chip)",
+    "body": "Per 1 medium (approx 20g): 130 calories, 6g fat, 17g carbohydrates, 0.7g fiber, 9g sugar, 1.5g protein"
+  },
+  {
+    "name": "Soda (Cola)",
+    "body": "Per 100ml: 42 calories, 0g fat, 11g carbohydrates, 0g fiber, 11g sugar, 0g protein"
+  },
+  {
+    "name": "Coffee (Black, Brewed)",
+    "body": "Per 100ml: 1 calorie, 0g fat, 0g carbohydrates, 0g fiber, 0g sugar, 0.1g protein"
+  },
+  {
+    "name": "Tea (Black, Brewed)",
+    "body": "Per 100ml: 1 calorie, 0g fat, 0g carbohydrates, 0g fiber, 0g sugar, 0.1g protein"
+  },
+  {
+    "name": "Green Tea (Brewed)",
+    "body": "Per 100ml: 1 calorie, 0g fat, 0g carbohydrates, 0g fiber, 0g sugar, 0g protein"
+  },
+  {
+    "name": "Orange Juice (Fortified)",
+    "body": "Per 100ml: 45 calories, 0.2g fat, 10g carbohydrates, 0.2g fiber, 8.4g sugar, 0.7g protein"
+  },
+  {
+    "name": "Apple Juice",
+    "body": "Per 100ml: 46 calories, 0.1g fat, 11g carbohydrates, 0.1g fiber, 9.6g sugar, 0.1g protein"
+  },
+  {
+    "name": "Cola (Diet)",
+    "body": "Per 100ml: 0 calories, 0g fat, 0g carbohydrates, 0g fiber, 0g sugar, 0g protein"
+  },
+  {
+    "name": "Sparkling Water",
+    "body": "Per 100ml: 0 calories, 0g fat, 0g carbohydrates, 0g fiber, 0g sugar, 0g protein"
+  },
+  {
+    "name": "Cereal (Corn Flakes)",
+    "body": "Per 100g: 378 calories, 0.4g fat, 84g carbohydrates, 3.3g fiber, 8g sugar, 7g protein"
+  },
+  {
+    "name": "Yogurt (Greek, Plain, Nonfat)",
+    "body": "Per 100g: 59 calories, 0.4g fat, 3.6g carbohydrates, 0g fiber, 3.2g sugar, 10g protein"
+  },
+  {
+    "name": "Hard Boiled Egg",
+    "body": "Per 1 large (approx 50g): 78 calories, 5g fat, 0.6g carbohydrates, 0g fiber, 0.6g sugar, 6g protein"
+  },
+  {
+    "name": "Hot Chocolate (with Milk)",
+    "body": "Per 100ml: 90 calories, 3g fat, 13g carbohydrates, 0.7g fiber, 12g sugar, 3.5g protein"
+  },
+  {
+    "name": "Donut (Plain)",
+    "body": "Per Per 1 medium (approx 50g): 200 calories, 11g fat, 23g carbohydrates, 0.9g fiber, 7g sugar, 2.5g protein"
+  },
+  {
+    "name": "Muffin (Blueberry)",
+    "body": "Per Per 1 medium (approx 113g): 385 calories, 17g fat, 53g carbohydrates, 2.3g fiber, 30g sugar, 6g protein"
+  },
+  {
+    "name": "Croissant",
+    "body": "Per 1 medium (approx 57g): 231 calories, 12g fat, 27g carbohydrates, 1.3g fiber, 6g sugar, 5g protein"
+  },
+  {
+    "name": "Bagel (Plain)",
+    "body": "Per 1 medium (approx Per 100g): 250 calories, 1.5g fat, 50g carbohydrates, 2.5g fiber, 5g sugar, 10g protein"
+  },
+  {
+    "name": "Oatmeal (Cooked with Water)",
+    "body": "Per 100g: 68 calories, 1.4g fat, 12g carbohydrates, 1.7g fiber, 0.2g sugar, 2.4g protein"
+  },
+  {
+    "name": "Pancake",
+    "body": "Per 1 medium (approx 34g): 75 calories, 2g fat, 12g carbohydrates, 0.4g fiber, 2g sugar, 2g protein"
+  },
+  {
+    "name": "Waffle",
+    "body": "Per 1 medium (approx 75g): 218 calories, 10g fat, 27g carbohydrates, 1g fiber, 4g sugar, 5g protein"
+  },
+  {
+    "name": "Syrup (Pancake/Waffle)",
+    "body": "Per 1 tbsp (approx 20g): 52 calories, 0g fat, 13g carbohydrates, 0g fiber, 10g sugar, 0g protein"
+  },
+  {
+    "name": "Bologna (Beef)",
+    "body": "Per 100g: 298 calories, 26g fat, 2.6g carbohydrates, 0g fiber, 1g sugar, 12g protein"
+  },
+  {
+    "name": "Salami (Genoa)",
+    "body": "Per 100g: 439 calories, 37g fat, 1.4g carbohydrates, 0g fiber, 0.8g sugar, 22g protein"
+  },
+  {
+    "name": "Sausage (Breakfast Links)",
+    "body": "Per 100g: 345 calories, 31g fat, 0g carbohydrates, 0g fiber, 0g sugar, 15g protein"
+  }
+]

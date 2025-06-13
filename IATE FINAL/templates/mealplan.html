@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="ie-edge">
+
+        <title> Food Database </title>
+        <link rel="icon" type="image/x-icon" href="static/Diagrams/i-ate-logo.png">
+        <link href="{{url_for('static', filename='css/mealplan.css')}}" rel="stylesheet">
+
+
+    </head>
+    <body>
+        <nav>
+            <div class="header">
+                <div class="logo">
+                    <img src="static/Diagrams/i-ate-logo.png" class="logoimg">
+                    <a class="logoname" href="/" >Food Friend</a>
+                </div>
+                <div class="navbar">
+                    <ul>
+                        <li><a href="/mealplan">Meal Planner</a></li>
+                        <li><a href="/chatbot">Chatbot</a></li>
+                        <li><a href="db">Database</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <div class="tableplan">
+            <table>
+                <tr>
+                    <th>Day of the week</th>
+                    <th>Plan</th>
+                </tr>
+                <!-- Help from https://stackoverflow.com/questions/48975383/why-to-use-safe-in-jinja2-python to make sure <br> in the {{x}} works in the code for better looking table -->
+                <tr>
+                    <td>Monday
+                    <td>{{MBREAK| safe}}
+                        <br>
+                        <br>
+                        {{MLUNCH | safe}}
+                        <br>
+                        <br>
+                        {{MDINNER | safe}}
+                </tr>
+                <tr>
+                    <td>Tuesday
+                    <td>{{TUESBREAK | safe}}
+                        <br>
+                        <br>
+                        {{TLUNCH | safe}}
+                        <br>
+                        <br>
+                        {{TDINNER | safe}}
+                    
+                </tr>
+                <tr>
+                    <td>Wednesday
+                    <td>{{WEDBREAK | safe}}
+                        <br>
+                        <br>
+                        {{WEDLUNCH | safe}}
+                        <br>
+                        <br>
+                        {{WEDDINNER | safe}}
+                </tr>
+                <tr>
+                    <td>Thursday
+                    <td>{{THUBREAK | safe}}
+                        <br>
+                        <br>
+                        {{THULUNCH | safe}}
+                        <br>
+                        <br>
+                        {{THUDINNER | safe}}
+                </tr>
+                <tr>
+                    <td>Friday
+                    <td>{{FRIBREAK | safe}}
+                        <br>
+                        <br>
+                        {{FRILUNCH | safe}}
+                        <br>
+                        <br>
+                        {{FRIDINNER | safe}}
+                </tr>
+                <tr>
+                    <td>Saturday
+                    <td>{{SATBREAK | safe}}
+                        <br>
+                        <br>
+                        {{SATLUNCH | safe}}
+                        <br>
+                        <br>
+                        {{SATDINNER | safe}}
+                </tr>
+                <tr>
+                    <td>Sunday
+                    <td>{{SUNBREAK | safe}}
+                        <br>
+                        <br>
+                        {{SUNLUNCH | safe}}
+                        <br>
+                        <br>
+                        {{SUNDINNER | safe}}
+                </tr>
+        </div>
+
+        <div class="chatbotdiv">
+            <div class="chatbottext">
+                {% if error %}
+                    <p style="color: red;">{{ error }}</p>
+                {% endif %}
+                <!-- return the robot answers and save-->
+                <form action="/text-input2" method="post" enctype="multipart/form-data">
+                    <div class="chatbox">
+                        <input  name="text" type="text" id="texti" class="chatbottext-input" accept="text" placeholder="Write your plan here">
+                        <button id="submitBtn" class="chatbottext-submit" type="submit">Submit</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="loader" id="loader" style="display: none;">
+            <div class="loader__element"></div>
+            <div class="loader__element"></div>
+            <div class="loader__element"></div>
+        </div>
+
+        <script>
+            document.querySelector('form').addEventListener('submit', function () {
+                document.getElementById('loader').style.display = 'flex';
+            });
+        </script>
+    </body>
+    
+</html>
