@@ -6,6 +6,7 @@
 
 ## Table of Contents
 * [General Information](#general-information)
+* [Installation Process](#installation-process)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Development Process](#development-process)
@@ -17,6 +18,35 @@
 I ATE is a project designed to support individuals with dietary restrictions arising from various causes such as chronic illnesses, physical conditions, allergies, and more. With approximately 1 in 3 Singaporeans requiring dietary or lifestyle modifications, I ATE aims to simplify and support this different way of life.
 
 FoodFriend is an AI-powered mobile application that features a personalised meal planner, AI chatbot, and a large food database to cater the varying needs of users.
+
+## Installation Process
+Clone the project
+
+```bash
+  git clone https://github.com/pohss-com-sg/I-ATE-I8.git
+```
+
+Go to the project directory
+
+```bash
+  cd I-ATE-I8
+```
+
+Install dependencies
+
+```bash
+  pip install Flask-SQLAlchemy
+  pip install google-gemini
+  import ast
+  install python 3.13.2
+```
+
+Start the server either by using the Start button in app.py on Visual Studio Code,
+
+or through
+```bash
+  python app.py
+```
 
 ## Technologies Used
 - Python - 3.13.2 64-bit
