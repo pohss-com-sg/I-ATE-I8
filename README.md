@@ -35,10 +35,6 @@ FoodFriend is an AI-powered mobile application that features a personalised meal
 - FoodFriend AI Chatbot
 
 
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-
-
 ## Development Process
 10th June 2025
 - Experimented with Gemini API
