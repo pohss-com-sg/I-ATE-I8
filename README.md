@@ -1,4 +1,4 @@
-![Logo](i-ate-logo.png)
+![Logo](I ATE Logo.png)
 
 # I ATE - an AI-powered food assistance
 ### This project was made by Team I8 (_get it?_) for the 25' June Conference Intermediate Hackathon.
