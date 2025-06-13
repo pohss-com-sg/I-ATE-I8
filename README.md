@@ -103,7 +103,7 @@ or through
 - This project was inspired by our conference group name 'i8' (a homophone of 'I ATE')
 - Many thanks to...
   - [https://buildingblocs.sg/] for very helpful coding and AI workshops
-  - [https://gemini.google.com] for the API
+  - [https://gemini.google.com] for the API and database jsonfile
   - [https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project] for the README.md reference
-  - [https://chatgpt.com/?model=gpt-4o] for large food database
+  - [https://chatgpt.com/?model=gpt-4o] for research of prevalence of dietary restrictions
   - [https://www.ncbi.nlm.nih.gov/] for research of prevalence of dietary restrictions
