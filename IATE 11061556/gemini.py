@@ -1,6 +1,6 @@
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyBfS37SJl91tv94IBKLaICc6Ybq71YOzwk") 
+genai.configure(api_key="---") 
 model = genai.GenerativeModel("models/gemini-2.0-flash")
 
 restrictions = "diabetes type 1"
