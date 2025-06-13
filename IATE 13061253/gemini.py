@@ -1,5 +1,5 @@
 import google.genai as genai
-gemini_api_key = "AIzaSyBfS37SJl91tv94IBKLaICc6Ybq71YOzwk"
+gemini_api_key = "---"
 client = genai.Client(api_key=gemini_api_key) 
 
 #intial needed prompts => food restrctions, living location and pantry. For convienece sake we have already have a set one
